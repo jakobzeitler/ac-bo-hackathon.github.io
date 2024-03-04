@@ -1,0 +1,20 @@
+---
+number: 1 <!-- leave as-is, maintainers will adjust -->
+title: Long-run Pitfalls of Multi-fidelity Bayesian Optimisation
+team_leads:
+  - Jakob Zeitler (Matterhorn Studio)
+
+# Comment these lines to hide these elements
+contributors:
+  - Gbetondji Dovonon (Matterhorn Studio)
+  
+github: AC-BO-Hackathon/<your-repo-name>
+
+<!-- youtube_video: CzZ-_A2_dck -->
+---
+
+Long-run Pitfalls of Multi-fidelity Bayesian Optimisation (description)
+
+Based on our recent workshop paper on the "Long-run Behaviour of Multi-fidelity Bayesian Optimisation" (https://arxiv.org/abs/2312.12633) we will try to tackle some of the causes of MFBO failure.
+
+- https://arxiv.org/abs/2312.12633
