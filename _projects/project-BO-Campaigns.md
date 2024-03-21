@@ -1,5 +1,5 @@
 number: 1 # leave as-is, maintainers will adjust
-title: Interpretability of Bayesian Optimisation Campaigns
+title: Interpretability of Bayesian Optimisation Campaigns in Synthetic Biology
 topic: general
 team_leads:
   - Dylan Schubert (University College London)
@@ -13,7 +13,13 @@ contributors:
 
 ---
 
-We are going to investigate established and new ways to interpret BO campaigns, in terms of feature importance, sensitivity etc.
+Bayesian Optimisation in Synthetic Biology is an emerging topic. Traditionally, classical DoE by design gives some insight into the interaction of input variables such as vitamins or trace materials.
+
+In a BO campaign, we can efficiently navigate that high dimensional input space, but we are not getting a direct insight into the interactions between variables.
+
+Therefore, it is important to provide some additional insight apart from where possible (local) maxima are. For example, what are the driving forces of high cell yield? What are the key interactions?
+
+In this project, we investigate how the literature so far has treated the interpretation of BO campaigns, review methods for insight generation and brainstorm ways of how to extend those to synthetic biology in general.
 
 References:
 https://pubmed.ncbi.nlm.nih.gov/35538846/, Section 3.4
