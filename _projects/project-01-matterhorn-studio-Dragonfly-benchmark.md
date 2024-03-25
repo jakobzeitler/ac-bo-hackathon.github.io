@@ -7,6 +7,7 @@ team_leads:
 # Comment these lines to hide these elements
 contributors:
   - Ayodeji Ijishakin (<a href=http://matterhorn.studio/>Matterhorn Studio</a>)
+  - Stefan Bringuier (stefanbringuier@gmail.com)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 
