@@ -2,14 +2,14 @@
 number: 1 # leave as-is, maintainers will adjust
 title: Multi-objective Benchmarking of Dragonfly against BoTorch
 team_leads:
-  - Jakob Zeitler (<a href=http://matterhorn.studio/>Matterhorn Studio</a>)
+  - Jakob Zeitler (<a href=http://matterhorn.studio/>Matterhorn Studio</a>) @jakobzeitler
 
 # Comment these lines to hide these elements
 contributors:
-  - Ayodeji Ijishakin (<a href=http://matterhorn.studio/>Matterhorn Studio</a>)
-  - Andy Anker (Technical University of Denmark (DTU))
+  - Ayodeji Ijishakin (<a href=http://matterhorn.studio/>Matterhorn Studio</a>) @A-Ijishakin
+  - Andy Anker (Technical University of Denmark (DTU)) @AndySAnker
 
-# github: AC-BO-Hackathon/<your-repo-name>
+# github: A-Ijishakin/BayezOpt
 
 ---
 
