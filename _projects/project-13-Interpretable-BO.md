@@ -3,7 +3,7 @@ number: 13 # leave as-is, maintainers will adjust
 title: Interpretability of Bayesian Optimisation Campaigns
 topic: general
 team_leads:
-  - Dylan Schubert (University College London)
+  - Dylan Schubert (University College London) @Schubydo
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
